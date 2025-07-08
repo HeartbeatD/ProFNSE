@@ -1,2 +1,2 @@
 # ProFNSE
-This project simulates the spread of information (specifically, belief in certain topics) through a population using agent-based modeling. Agents interact with each other, update their beliefs based on conversations, and potentially "infect" others with their opinions.
+The project first uses agent-based modeling to simulate the spread of information (particularly beliefs about certain topics) among a population. Agents interact with each other, update their beliefs based on conversations, and may “infect” others with their views to extract dynamic propagation features over a period of time, thereby improving the accuracy of false information detection.
